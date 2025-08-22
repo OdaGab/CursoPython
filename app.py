@@ -1,1 +1,13 @@
-print('Odair Gabriel')
+
+print("Odair Gabriel")  
+
+
+Operadores 
++
+-
+*
+/
+//
+%
+**
+
